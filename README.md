@@ -15,6 +15,7 @@ Following that, clone this repository to your local machine and do the following
 4. `cd frontend` and run yarn.
 5. Use `yarn start` to start the React application.
 
+![Connect wallet](https://i.imgur.com/GxjMUlT.jpg)
 
 After you have successfully launched the React application, connect to your [Metamask wallet](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en).
 
@@ -26,3 +27,4 @@ is currently possible for the following networks:
 - Binance
 - Polygon
 
+![NFTs](https://i.imgur.com/iLsucAt.jpg)
